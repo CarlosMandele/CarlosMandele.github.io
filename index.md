@@ -31,7 +31,7 @@ O objetivo deste projeto é prever a biodegradação de compostos quimícos a pa
 
  
 
-<img src="images/logisticRegression.png?raw=true"/>
+<img src="images/project3/logisticRegression.png?raw=true"/>
 
 <img src="images/randomForest.png?raw=true"/>
 
