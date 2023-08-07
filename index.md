@@ -74,7 +74,7 @@ Neste projeto, utilizo o modelo de regressão múltipla considerando a autocorre
 
  [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
-View code on Github(https://github.com/CarlosMandele/classic-machine-learning-Algorithms)
+View code on Github()
 
 ---
 
