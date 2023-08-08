@@ -2,7 +2,7 @@
 
 ---
 
-### Deep Learning para aproximar uma lei da natureza diretamente dos dados
+### Deep Learning - aproximando uma lei da natureza diretamente dos dados com Redes Neurais Artificiais
 
 A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma que o consumo de energia (metabolismo) dos seres vivos, varia segundo a potência de 3/4 de sua massa corporal. Esta lei funciona de bactérias a baleias, no entanto permanece por enquanto sem explicação física ou geométrica satisfatória. Neste projeto, foi desenvolvido uma rede neural(arquitetura de redes neurais MLP) usando o framework Keras/TensorFlow para prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
 
