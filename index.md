@@ -10,7 +10,7 @@ A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 
-[View code on Colab](https://colab.research.google.com/drive/12aInuSMuZB-HjER2rVCk0btLgfhumsYs?usp=sharing)
+[View code on Github](neural_networks_KerasTensorFlow_Kleiber_Law.ipynb)
 
 ---
 
