@@ -1,4 +1,4 @@
-## Projetos selecionados em Ciência de Dados: Data analysis, Machine learning, Deep Learning, Computer Vision e PNL
+## Selected projects in Data Science: Data analysis, Machine learning, Deep learning, Computer vision and PNL
 
 ---
 
