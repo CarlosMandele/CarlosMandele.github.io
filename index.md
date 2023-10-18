@@ -1,4 +1,4 @@
-## Selected projects in Data Science, Machine learning, Deep learning, Computer vision and PNL
+## Selected projects in Data Science, AI Software Enginnering, Machine learning, Deep learning, Computer vision and PNL
 
 ---
 
