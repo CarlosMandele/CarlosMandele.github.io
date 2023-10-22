@@ -14,8 +14,9 @@ A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma
 
 ---
 
-### Examinando os impactos da COVID-19 nas cadeias de abastecimento de pescado, usando dados de pesquisa longitudinal de alta frequência com 789 entrevistados em diferentes regiões do globo
+### Web Scraping com Python: Automatizando uma recolha de dados na web com Selenium
 
+Web scraping é uma técnica que compreende a recolha de dados de paginas web com objetivo de extrair informações específicas. Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições das marés em Tadoussac(Canada) para os próximos sete dias, utilizando Python e as bibliotecas Selenium e BeautifulSoup
 
 <img src="images/mobility.png?raw=true" />
 
