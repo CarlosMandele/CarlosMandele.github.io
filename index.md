@@ -85,8 +85,8 @@ View code on Github()
 
 ---
 
-## Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
+## Projetos baseados em competências
+Uma seleção de outros projetos que demonstram habilidades específicas de ciência de dados, inteligência artificial e ML.
 
 - [](#)
 - [](#)
