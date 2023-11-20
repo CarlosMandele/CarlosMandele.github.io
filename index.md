@@ -1,4 +1,4 @@
-## Selected projects in Data Science, AI Software Enginnering, Machine learning, Deep learning, Computer vision and PNL
+## Projetos selecionados em Data Science, AI Software Enginnering, Machine learning, Visão computacional e PLN
 
 ---
 
@@ -42,7 +42,7 @@ visão computacional pode ser aplicada em diversas áreas, incluindo na explora�
 
 ### Modelagem e Inferência Estatística da biodegradação de compostos quimícos usando algoritmos clássicos de machine learning
 
-O objetivo deste projeto é prever a biodegradação de compostos quimícos a partir dos descritores moleculares usando algoritmos clássicos de aprendizado de máquina. A execução dos códigos/scripts foi realizado em ambiente Jupyter notebook, a implementação em linguagem Python e o framework Scikit-Learn para implementação dos algoritmos.
+O objetivo deste projeto é prever a biodegradação de compostos quimícos a partir dos descritores moleculares usando algoritmos clássicos de aprendizado de máquina (Regressão Logistica, Tree-based set algorithms, Random forest, Doped gradient axes - XGBoost).
 
  
 
