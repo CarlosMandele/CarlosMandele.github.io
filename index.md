@@ -4,7 +4,7 @@
 
 ### Aproximando uma lei da natureza diretamente dos dados com Redes Neurais Artificiais
 
-A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma que o consumo de energia (metabolismo) dos seres vivos, varia segundo a potência de 3/4 de sua massa corporal. Esta lei funciona de bactérias a baleias, no entanto permanece por enquanto sem explicação física ou geométrica satisfatória. Neste projeto, o objetivo é construir um modelo de redes neurais artificial (IA) capaz de prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
+A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma que o consumo de energia (metabolismo) dos seres vivos, varia segundo a potência de 3/4 de sua massa corporal. Esta lei funciona de bactérias a baleias, no entanto permanece por enquanto sem explicação física ou geométrica satisfatória. Neste projeto, o objetivo é construir um modelo de redes neurais (IA) para prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
 
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
@@ -27,7 +27,7 @@ Web scraping é uma técnica que compreende a recolha de dados de paginas web co
 
 ### Análise de imagens alimentada por IA (Inteligência artificial) para a indústria de energia
 
-visão computacional pode ser aplicada em diversas áreas, incluindo na exploração de recursos naturais tais como na agricultura e agro-pecuaria, energia, meio ambiente e silvicultura, pescas e a exploração mineira. No âmbito da energia, a visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. Neste projeto, o objetivo é construir um classificador de imagens para um sistema de energias intermitentes (Painel solar limpo vs. Painel solar sujo/danificado) aplicando técnicas de visão computacional, redes neurais convolucionais, Transfer learning e fine-tuning.
+visão computacional pode ser aplicada em diversas áreas, incluindo na exploração de recursos naturais tais como na agricultura e agro-pecuaria, energia, meio ambiente e silvicultura, pescas e a exploração mineira. No âmbito da energia, a visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. Neste projeto, o objetivo é construir um classificador de imagens para um sistema de energias intermitentes (Painel solar limpo vs. Painel solar sujo/danificado) aplicando técnicas de visão computacional, redes neurais, Transfer learning e fine-tuning.
 
 
 
