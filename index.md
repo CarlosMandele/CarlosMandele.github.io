@@ -98,15 +98,14 @@ Visualizar projeto no Github()
 
 ---
 
-### Modelagem de regressão múltipla em Python para examinar os impactos da COVID-19 nas cadeias de abastecimento de pescados
+### Web crawler com Python
 
-Neste projeto, utilizo o modelo de regressão múltipla considerando a autocorrelação espacial e analisar os impactos da COVID-19 nas cadeias de abastecimento de peixes, usando dados de pesquisa longitudinal de alta frequência com 789 entrevistados em diferentes regiões do globo.
+Neste projeto, desenvolvi um programa (web crawler) básico que visita sistematicamente as páginas Web de um site, seguindo hyperlinks da página principal e para cada página visitada, o programa contabiliza a frequência de cada palavra contida na página.
 
-<!-- <img src="images/random_intercept.png?raw=true"/> -->
 
- [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+ [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/VScode-white?logo=VScode)](#) [![](https://img.shields.io/badge/HTML-orange?logo=HTML)](#) [![](https://img.shields.io/badge/Requests-red?logo=Requests)](#) [![](https://img.shields.io/badge/urllib-green?logo=urllib)](#)
 
-Visualizar projeto no Github()
+[Visualizar projeto no Github](https://github.com/CarlosMandele/webCrawler-Python/blob/main/wcrawler.py)
 
 ---
 
