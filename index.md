@@ -1,4 +1,4 @@
-## Projetos selecionados em Data Science, AI Software Enginnering, Machine learning, Visão computacional e PLN
+## Projetos
 
 ---
 
