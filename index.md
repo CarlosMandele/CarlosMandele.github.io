@@ -2,9 +2,9 @@
 
 ---
 
-### Aproximando uma lei da natureza diretamente dos dados com Redes Neurais Artificiais
+### [Redes Neurais: aproximando uma lei da natureza diretamente dos dados](https://github.com/CarlosMandele/neural-networks-KerasTensorFlow-Kleiber-Law/blob/master/neural_networks_Kleiber_Law.ipynb)
 
-A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma que o consumo de energia (metabolismo) dos seres vivos, varia segundo a potência de 3/4 de sua massa corporal. Esta lei funciona de bactérias a baleias, no entanto permanece por enquanto sem explicação física ou geométrica satisfatória. Neste projeto, o objetivo é construir um modelo de redes neurais (IA) para prever o metabolismo a partir da massa corporal de uma determinada espécie de seres vivos.
+A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma que o consumo de energia (metabolismo) dos seres vivos, varia segundo a potência de 3/4 de sua massa corporal. Esta lei funciona de bactérias a baleias, no entanto permanece por enquanto sem explicação física ou geométrica satisfatória. Neste projeto, o objetivo é construir um modelo de redes neurais (Deep Learning) para prever o metabolismo de uma determinada espécie de seres vivos a partir da massa corporal.
 
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
