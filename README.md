@@ -1,4 +1,4 @@
-## Carlos Kalombola's Data Science and Machine Learning portfolio project
+## Carlos Mandele's Data Science and Machine Learning portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
