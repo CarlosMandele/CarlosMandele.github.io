@@ -2,7 +2,7 @@
 
 ---
 
-### [Redes Neurais: Aproximando uma lei da natureza diretamente dos dados](https://github.com/carloskalombola/neural-networks-KerasTensorFlow-Kleiber-Law/blob/master/neural_networks_Kleiber_Law.ipynb)
+### [Redes Neurais: Aproximando uma lei da natureza diretamente dos dados](https://github.com/ckmandele/neural-networks-KerasTensorFlow-Kleiber-Law/blob/master/neural_networks_Kleiber_Law.ipynb)
 
 A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma que o consumo de energia (metabolismo) dos seres vivos, varia segundo a potência de 3/4 de sua massa corporal. Esta lei funciona de bactérias a baleias, no entanto permanece por enquanto sem explicação física ou geométrica satisfatória. Neste projeto, o objetivo é construir um modelo de redes neurais (Deep Learning) para prever o metabolismo de uma determinada espécie de seres vivos a partir da massa corporal.
 
@@ -11,7 +11,7 @@ A lei de Kleiber, formulada pelo biólogo Max Kleiber na década de 1930, afirma
 
 ---
 
-### [Web Scraping: Automatizando uma recolha de dados na web com Python](https://github.com/carloskalombola/Coleta-de-dados-na-Web/blob/master/robot_selenium_Data_collectionweb.py)
+### [Web Scraping: Automatizando uma recolha de dados na web com Python](https://github.com/ckmandele/Coleta-de-dados-na-Web/blob/master/robot_selenium_Data_collectionweb.py)
 
 Web scraping é uma técnica que compreende a recolha de dados de paginas web com objetivo de extrair informações específicas. Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições das marés em Tadoussac(Canada) para os próximos sete dias, utilizando a linguagem Python.
 
@@ -21,7 +21,7 @@ Web scraping é uma técnica que compreende a recolha de dados de paginas web co
 
 ---
 
-### [Análise de imagens alimentada por IA (Inteligência artificial) para a indústria de energia](https://github.com/carloskalombola/Energ-AI/blob/master/EnergAI_solarpanel_classific_visionartificielle.ipynb)
+### [Análise de imagens alimentada por IA (Inteligência artificial) para a indústria de energia](https://github.com/ckmandele/Energ-AI/blob/master/EnergAI_solarpanel_classific_visionartificielle.ipynb)
 
 visão computacional pode ser aplicada em diversas áreas, incluindo na exploração de recursos naturais tais como na agricultura e agro-pecuaria, energia, meio ambiente e silvicultura, pescas e a exploração mineira. No âmbito da energia, a visão computacional pode ser aplicada para identificação e pevenção de futuras perdas, melhorar a eficiência energética, prever a geração de energia e previsão de energia, reduzir os custos operacionais, deteção automática de possíveis defeitos na infraestrutura da rede, reduzir interrupções na rede não planejadas que podem gerar perdas monetárias significativas, entre outras aplicações. Neste projeto, o objetivo é construir um classificador de imagens para um sistema de energias intermitentes (Painel solar limpo vs. Painel solar sujo/danificado) aplicando técnicas de visão computacional, redes neurais, Transfer learning e fine-tuning.
 
@@ -34,7 +34,7 @@ visão computacional pode ser aplicada em diversas áreas, incluindo na explora�
 
 ---
 
-### [Modelagem e Inferência Estatística da biodegradação de compostos quimícos usando algoritmos clássicos de machine learning](https://github.com/carloskalombola/classic-machine-learning-Algorithms/blob/main/Notebooks/DA_classic_ML_algorithms_data_qsar.ipynb)
+### [Modelagem e Inferência Estatística da biodegradação de compostos quimícos usando algoritmos clássicos de machine learning](https://github.com/ckmandele/classic-machine-learning-Algorithms/blob/main/Notebooks/DA_classic_ML_algorithms_data_qsar.ipynb)
 
 O objetivo deste projeto é prever a biodegradação de compostos quimícos a partir dos descritores moleculares usando algoritmos clássicos de aprendizado de máquina.
 
@@ -42,7 +42,7 @@ O objetivo deste projeto é prever a biodegradação de compostos quimícos a pa
 
 ---
 
-### [IoT & Data Science na prática](https://github.com/carloskalombola/IoT-DataScience/blob/main/FPcomputing_IoT_DataScience.ipynb)
+### [IoT & Data Science na prática](https://github.com/ckmandele/IoT-DataScience/blob/main/FPcomputing_IoT_DataScience.ipynb)
 
 IoT é uma das principais fontes de dados que vem sendo utilizado em projetos de Ciência de dados, Inteligência artificial e Machine learning. As aplicações estendem-se a quase todas as áreas, desde a agropecuária, meio ambiente(poluição e qualidade do ar, temperatura, umidade, pressão atmosférica, direção e velocidade do vento), monitorização e controle ambiental, smart cities, agricultura, Hidrologia e saneamento, eletrodomésticos, etc. Neste projeto, o objetivo é implementar uma conexão de serviço web (API) para coletar dados e aplicar técnicas de Data Science sobre os dados de aferição de temperatura e umidade capturados por sensores IoT situados em vários polos (campus) da universidade.
 
@@ -53,7 +53,7 @@ IoT é uma das principais fontes de dados que vem sendo utilizado em projetos de
 
 ---
 
-### [Implementando um pipeline de coleta de dados na web com Python](https://github.com/carloskalombola/Data-Scraping-on-the-Web/blob/master/webScraping_Python_DB_Engines_Ranking.ipynb)
+### [Implementando um pipeline de coleta de dados na web com Python](https://github.com/ckmandele/Data-Scraping-on-the-Web/blob/master/webScraping_Python_DB_Engines_Ranking.ipynb)
 
 A Web armazena vastas quantidades de dados úteis para pesquisa. É uma importante fonte de dados que é responsável pelo apressurado avanço da ciência de dados e da inteligência artificial. Scraping consiste em uma aplicação capaz de requesitar um servidor web, solicitar dados, analisar e extrair as informações necessárias. Neste projeto, o objetivo é construir um pipeline de coleta de dados na web utilizando a linguagem Python, as bibliotecas BeautifulSoup e Requests, e um parseador html.
 
@@ -73,7 +73,7 @@ Visualizar projeto no Github()
 
 ---
 
-### [Web crawler com Python](https://github.com/carloskalombola/webCrawler-Python/blob/main/wcrawler.py)
+### [Web crawler com Python](https://github.com/ckmandele/webCrawler-Python/blob/main/wcrawler.py)
 
 Neste projeto, desenvolvi um programa (web crawler) básico que visita sistematicamente as páginas Web de um site, seguindo hyperlinks da página principal e para cada página visitada, o programa contabiliza a frequência de cada palavra contida na página.
 
@@ -85,6 +85,6 @@ Neste projeto, desenvolvi um programa (web crawler) básico que visita sistemati
 ## Projetos baseados em competências
 Uma seleção de outros projetos que demonstram habilidades específicas de Ciência de dados, Inteligência artificial e Machine Learning.
 
-- [Extração de dados na web com R](https://github.com/carloskalombola/Scraping-R/blob/main/datascraping.R)
-- [Análise descritiva de dados com Python](https://github.com/carloskalombola/analise-descritiva-de-dados/blob/master/DDA_Python.ipynb)
+- [Extração de dados na web com R](https://github.com/ckmandele/Scraping-R/blob/main/datascraping.R)
+- [Análise descritiva de dados com Python](https://github.com/ckmandele/analise-descritiva-de-dados/blob/master/DDA_Python.ipynb)
 - [](#)
